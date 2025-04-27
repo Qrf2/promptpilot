@@ -1,0 +1,17 @@
+[
+    {
+        "prompt": "Write a 500-word fantasy story about a young mage discovering their powers in a medieval village, including vivid descriptions of the setting and a key conflict.",
+        "description": "Specific, contextual, and detailed prompt for story writing.",
+        "category": "Story Writing"
+    },
+    {
+        "prompt": "Summarize the following 1000-word article into 200 words, focusing on key points for a general audience: [text].",
+        "description": "Clear summarization task with length, audience, and input specified.",
+        "category": "Summarization"
+    },
+    {
+        "prompt": "Generate a 12-line romantic poem in the style of Shakespeare, focusing on unrequited love, with a formal tone.",
+        "description": "Detailed poetry prompt with style, theme, and length specified.",
+        "category": "Poetry"
+    }
+]
