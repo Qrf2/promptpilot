@@ -1,3 +1,5 @@
+![Uploading Screenshot 2025-04-26 094614.png…]()
+
 PromptPilot: Autonomous Prompt Debugger & Optimizer
 PromptPilot is a powerful tool for AI prompt engineers to debug, optimize, and test prompts using the free OpenRouter API. Built with a professional Streamlit UI, it analyzes prompt issues, suggests improvements, and provides side-by-side testing with OpenRouter's free-tier models (e.g., LLaMA 3.1 8B Instruct).
 Features
